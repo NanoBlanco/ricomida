@@ -40,6 +40,10 @@ nav{
     font-size: 37px;
 }
 
+.imagen {
+    max-width: 400px;
+    max-height: 400px;
+}
 .texto{
     margin-top: 56px;
     font-size: 40px;
