@@ -1,5 +1,9 @@
 # Ricomida
+Página de receta de pizza
 
-## Página de receta de pizza
+## Desarrollado por Reynaldo Blanco
 
-### Incluye la receta y los pasos a seguir
+### Front end
+- HTML
+- CSS
+- JS
